@@ -1,3 +1,5 @@
+![Uber](Uber_logo.png)
+
 # Uber Pickups — Zones chaudes à New York
 
 Projet réalisé dans le cadre du bloc 3 de la certification CDSD (Jedha).
