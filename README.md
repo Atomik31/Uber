@@ -47,6 +47,12 @@ Uber/
 │   └── uber.ipynb
 ├── reports/
 │   └── figures/
+│       ├── 01_pickups_by_hour.png
+│       ├── 02_pickups_by_day.png
+│       ├── 03_heatmap_day_hour.png
+│       ├── 04_kmeans_friday_6pm.png
+│       ├── 05_kmeans_centers_by_day.png
+│       └── 06_dbscan_clusters.png
 └── README.md
 ```
 
