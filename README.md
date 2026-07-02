@@ -1,6 +1,6 @@
 ![Uber](Uber_logo.png)
 
-# Uber Pickups — Zones chaudes à New York
+# Uber Pickups - Zones chaudes à New York
 
 Projet réalisé dans le cadre du bloc 3 de la certification CDSD (Jedha).
 
@@ -8,7 +8,7 @@ Projet réalisé dans le cadre du bloc 3 de la certification CDSD (Jedha).
 
 ## Contexte
 
-Uber constate que ses chauffeurs ne sont pas toujours au bon endroit au bon moment. Les utilisateurs n'acceptent pas d'attendre plus de 5 à 7 minutes — au-delà, ils annulent. L'idée : utiliser les données historiques de pickups pour identifier des zones chaudes et les recommander aux chauffeurs en temps réel.
+Uber constate que ses chauffeurs ne sont pas toujours au bon endroit au bon moment. Les utilisateurs n'acceptent pas d'attendre plus de 5 à 7 minutes - au-delà, ils annulent. L'idée : utiliser les données historiques de pickups pour identifier des zones chaudes et les recommander aux chauffeurs en temps réel.
 
 ---
 
@@ -24,7 +24,7 @@ Uber constate que ses chauffeurs ne sont pas toujours au bon endroit au bon mome
 
 ## Stack
 
-- Python — Pandas, Plotly Express, Scikit-learn (KMeans, DBSCAN)
+- Python - Pandas, Plotly Express, Scikit-learn (KMeans, DBSCAN)
 
 ---
 
@@ -58,4 +58,4 @@ Uber/
 
 ---
 
-Julien CHARLIER — [(Github : Atomik31)](https://github.com/Atomik31)
+Julien CHARLIER - [(Github : Atomik31)](https://github.com/Atomik31)
